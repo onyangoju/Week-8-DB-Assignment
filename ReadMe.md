@@ -28,7 +28,7 @@ The database is normalized and structured using **proper constraints** including
 
 1. **Install MySQL Server** (if not already installed)
 2. Open your MySQL client (MySQL Workbench, phpMyAdmin, or terminal)
-3. Run the provided `.sql` file:
+3. Run the provided `clinic_booking_system.sql` file:
 
 ```bash
 
